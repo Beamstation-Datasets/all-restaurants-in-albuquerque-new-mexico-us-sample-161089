@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e0bb0794-7d52-4ef8-809e-97da3dfc3e74",
+  "export_job_id": "2c314879-8b9a-4ce0-9471-58ee6197cf83",
   "id_short": 161089,
-  "published_at": "2026-04-19T07:55:41Z",
+  "published_at": "2026-04-23T19:02:22Z",
   "repo_name": "all-restaurants-in-albuquerque-new-mexico-us-sample-161089",
   "sample_asset_name": "beamstation_161089_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/161089/beamstation_161089_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 175,
-  "sample_sha256": "e0dbbac50b839f94d4f0350ab81e668e8d24d48d09f76f61845de61ff417bc60",
-  "sample_size_bytes": 657522,
-  "total_records": 1755
+  "sample_records": 115,
+  "sample_sha256": "ea41e18d381cbcc03e99a68bfeb60ad6eb3bcd39517ee6209b11facef2038559",
+  "sample_size_bytes": 404366,
+  "total_records": 1150
 }
